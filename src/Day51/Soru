@@ -1,0 +1,5 @@
+Bir okulun çalışanı ve öğrencilerinin kayıt altına alındığı bir program yapılmak isteniyor.
+1-Çalışan ismi, adresi, okul, maas ve uye tipi(Enum: Ogrenci, Calısan) bilgileri vardır.
+2- Ogrencilerin isim adres okul ucret ve uye tipi (Enum: Ogrenci, Calısan) bilgileri vardır.
+3-Okulun ise ismi max öğrenci sayısı ogrencileri ve calışanları vardır...
+4-
